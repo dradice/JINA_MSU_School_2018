@@ -25,6 +25,9 @@ command
 
 ``
     $ sudo -s 
+``
+
+``
     $ yes | port install py36-matplotlib py36-notebook py36-ipywidgets py36-scipy
 ``
 
